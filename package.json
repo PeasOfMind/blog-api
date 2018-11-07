@@ -2,9 +2,11 @@
   "name": "blog-api",
   "version": "1.0.0",
   "description": "simple blog api with get, post, delete, and put",
-  "main": "models.js",
+  "main": "server.js",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.4",
+    "morgan": "^1.9.1",
     "uuid": "^3.3.2"
   },
   "devDependencies": {},
