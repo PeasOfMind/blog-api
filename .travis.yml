@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: dMT4+s5JGttbLPOS/pebrbUlANWV7uI2pSoK/rfXtfNvUYqOF9YYotD+NnmNEtR/iBkOvEte9dETsErbXJMSbhhyRTBnCbfrMIrkhJuvpPtBCMbMtlFdUkB+TU1bl0oHKCH6TavqFONQxJS+oBpea3I/lXakifvqTnkhVK1/rKEeS+Dc92EaErdlKTcn7U1LTi1mEoFi6/azNDEt9RD+VVKGazLOH/pMLmOxvpWO2xjV/1ROuYO2bUpfWstcGPIQDKJWxWxZuZ5HsweIyu161Mi2J+dhrFKq8HKPSHFNMqArduJGm/DWYTLoWRpxKZcWj7vTDA5rpHU7aO+Qz1GDf04fdiJ+4VvM2FsXrKYzrRjNqDNf/ZUMmUxoN9HZ7e3/TYIbMVJRW77sF9ySamnF9QgR8QvX/GTYHuBICeIKPHv32RC5jnHG9IRDPWN4ynfpwPbA6Wyf5XNLX1YtCgHoy+nuUQHT7VVKCyPv0l0ncWz9JKPlx8WXjOEqg76PQxN1fV9q43W3hW88GCafMErQuE5RbEaA3gpzhY7HbvVATABfD+hZf1o9JVaUc+DCQJnDV4ThibEL6in79BNJi+LabVj3aJkk/TFBya9iczYHDDGgN1QxxQJYojoxFYE3iaLSQe3Mkqh/bUqpUP9R3o95BLiwOzhxXMC8CMj0Kb+0Z2A=
-  app: blog-api
+  app: rocky-temple-41900
   on:
     repo: PeasOfMind/blog-api
