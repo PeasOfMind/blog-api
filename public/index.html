@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Blogging app with post, update, and delete functionality">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>My Blog</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>My First Blog</h1>
+    </header>
+    <main id="js-blog">
+        <section>
+            <h2 class="post-title"></h2>
+            <p class="post-content"></p>
+            <button class="js-update">Update Post</button>
+            <button class="js-delete"></button>
+        </section>
+        <div id="post-form">
+            <form id="blog-entry">
+                <label for=""></label>
+                <input type="text">
+                <label for=""></label>
+                <input type="text">
+                <label for=""></label>
+                <input type="text">
+            </form>
+        </div>
+    </main>
+    <script src="//code.jquery.com/jquery-3.1.1.min.js"
+    integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+    crossorigin="anonymous"></script>
+    <script src="client.js"></script>
+</body>
+</html>
