@@ -8,8 +8,6 @@ const contentRouter = require('./contentRouter');
 
 app.use(morgan('common'));
 
-// app.use(express.static('public'));
-
 app.get('/', (req, res) => {
     res.status(204).end;
 });
